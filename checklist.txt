@@ -1,0 +1,9 @@
+registration - result
+email - result
+facebook - result
+vk - result
+autorisation - result
+user online - result
+add new foto - result
+exit account - result
+delete account - result
